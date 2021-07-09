@@ -1,0 +1,5 @@
+# Tensorflow Introduction
+
+Linear function, Sigmoid, Cost, One hot encoding
+
+https://youtu.be/Dtsz30Nziu4
